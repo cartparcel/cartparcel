@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cartparcel
-- 📫 How to reach me -care@cartparcel.com
+- 📫 How to reach me--     care@cartparcel.com
 
 <!---
 cartparcel/cartparcel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
